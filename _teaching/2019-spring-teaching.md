@@ -1,20 +1,26 @@
 ---
 title: "Teaching Assistant in Statistical Learning and Data Mining"
 collection: teaching
-type: "Teaching Assistantship"
+type: "Graduate Course"
 permalink: /teaching/2019-spring-teaching
 venue: "MIT, Sloan School of Management, Operations Research"
 date: 2019-02-01
 location: "Cambridge, MA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During Spring 2019, I had the opportunity to assist Professor Roy Welsch with his class in Statistical Learning and Data Mining at MIT Sloan School of Management.
 
-Heading 1
+Prerequisites 
 ======
 
-Heading 2
+Syllabus
 ======
 
-Heading 3
+Recitations
+======
+
+Going forward
+======
+
+My students
 ======
