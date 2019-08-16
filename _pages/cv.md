@@ -11,22 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Statistics & Social and Engineering Systems, MIT, 2022 (expected)
+* MSc in Mathematical and Computational Engineering, Stanford University, 2016
+* BSc in Engineering Sciences, Ecole Centrale Paris, France, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Data Science Intern at Microsoft
+  * Team:
+  * Project: 
+  * Mentors: Liz Manrao, Kamal Choudhary
   
+* Summer 2018: Data Science Intern at Microsoft
+  * Team:
+  * Project:
+  * Mentors: Rui Hu, Gaurav Sood, Fereshteh Amini
+
+* Summer 2016: Quantitative Research Intern at Goldman Sachs
+  * Team:
+  * Project: 
+  * Mentors: Anass Afilal, Tom Schouwenaars
+
+* Summer 2015: Quantitative Research Intern at Stanford Management Company
+  * Team:
+  * Project:
+  * Mentors:
+
+* Summer 2014: Portfolio Analyst Intern at Montsegur Finance
+
+* Summer 2013: Control Management Intern at Auchan
+ 
 Skills
 ======
 * Skill 1
